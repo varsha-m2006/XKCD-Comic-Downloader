@@ -1,0 +1,2 @@
+# XKCD-Comic-Downloader
+Python script that scrapes and downloads all XKCD comics by navigating pages with requests and BeautifulSoup. Saves comics locally, demonstrating web scraping, file handling, and control flow. Perfect for practicing Python automation and real-world data extraction.
